@@ -17,25 +17,28 @@ The issues faced were:
 
 Importing project into workspace:
 
-	Open Eclipse IDE
+1. Open Eclipse IDE
 
-	Right click on "Package Explorer".
+2. Right click on "Package Explorer".
 
-	Select "Import..."
+3. Select "Import..."
 
-	Click on "General" and then "Existing Projects into Workspace"
+4. Click on "General" and then "Existing Projects into Workspace"
 
-	Enter the location of the project into root directory.
+5. Enter the location of the project into root directory.
 
-	Check "Copy contents into workspace".
+6. Check "Copy contents into workspace".
 
-	Click "Finish" to complete the process.
+7. Click "Finish" to complete the process.
+
+Later,
 
 * Open the projects in the eclipse IDE.
 *	Run each of the Java files one after the other.
 *	After all three are running, press enter in each of the three consoles to start the multicasting.
 
-Build All JAVA files and Run them as “Java Applications”
+* Build All JAVA files and Run them as “Java Applications”
+
 Node1
 
 Node2
