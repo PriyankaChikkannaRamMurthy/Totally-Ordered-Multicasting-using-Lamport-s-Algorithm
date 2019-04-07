@@ -13,7 +13,7 @@ The issues faced were:
 2.	One cannot compare the timestamps of two events to determine their precedence relationship with Lamport’s clock.
 3.	 Simple integer clock cannot order both events within a process and events in different processes.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 * Open the projects in the eclipse IDE.
 *	Run each of the Java files one after the other.
 *	After all three are running, press enter in each of the three consoles to start the multicasting.
@@ -27,5 +27,5 @@ Node3
 
 In 3 different consoles to see the output while they are multicasting the messages with Lamport clock implementation
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
