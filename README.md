@@ -14,6 +14,23 @@ The issues faced were:
 3.	 Simple integer clock cannot order both events within a process and events in different processes.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Importing project into workspace:
+
+	Open Eclipse IDE
+
+	Right click on "Package Explorer".
+
+	Select "Import..."
+
+	Click on "General" and then "Existing Projects into Workspace"
+
+	Enter the location of the project into root directory.
+
+	Check "Copy contents into workspace".
+
+	Click "Finish" to complete the process.
+
 * Open the projects in the eclipse IDE.
 *	Run each of the Java files one after the other.
 *	After all three are running, press enter in each of the three consoles to start the multicasting.
